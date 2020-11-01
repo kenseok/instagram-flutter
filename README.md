@@ -5,6 +5,8 @@
 3. Language => Dart
 
 - basic functions
+
+
   1.Instagram Login.
   2.Facebook synchronization.
   3.Comments.
@@ -13,7 +15,12 @@
   6.Upload Photography.
   7.infinite scroll.
 
+
+
+
 - pubspec.yaml
+
+
   cupertino_icons: ^0.1.3
   cached_network_image: ^2.2.0+1
   firebase_auth: ^0.16.1
@@ -24,6 +31,9 @@
   image: ^2.1.12
   firebase_storage: ^3.1.6
   rxdart: ^0.24.1
+  
+  
+  
   
   
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/49246683/97806970-903a8a00-1ca1-11eb-8db5-aef6763506bc.gif)
